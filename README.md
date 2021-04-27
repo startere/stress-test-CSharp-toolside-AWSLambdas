@@ -1,6 +1,6 @@
 # Blank function (C#)
 
-![Architecture](/sample-apps/blank-csharp/images/sample-blank-csharp.png)
+![image](https://user-images.githubusercontent.com/13279668/116292930-92842980-a796-11eb-88df-7222b4816827.png)
 
 The project source includes function code and supporting resources:
 
